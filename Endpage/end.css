@@ -1,0 +1,21 @@
+.end-form-container{
+    width:100%;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    max-width:30rem;
+}
+
+
+
+#end a{
+    align-items:center;
+    text-align: center;
+}
+
+.fa-home{
+    margin-left:1rem;
+    font-size:2rem;
+    color:black;
+
+}
